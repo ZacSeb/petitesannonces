@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controller;
+namespace App\Controller\Admin;
 
 use App\Entity\Categories;
 use App\Form\CategoriesType;
@@ -11,13 +11,13 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 /**
  * @Route("/admin", name="admin_")
- * 
+ * @package App\Controller\Admin
  */
 
 class AdminController extends AbstractController
 {
     /**
-     * @Route("/", name="home")
+     * @Route("/", name="Ma_page_accueil")
      */
     public function index(): Response
     {
@@ -42,12 +42,12 @@ class AdminController extends AbstractController
             $em->persist($categorie);
             $em->flush();
 
-            return $this->redirectToRoute('Ma_page_accueil');
+            return $this->redirectToRoute('admin_home');
 
         }
 
         return $this->render('admin/categories/ajout.html.twig', [
-            'form' => $form->createView(),
+            'form' => $form->createView()
         ]);
     }
 }
