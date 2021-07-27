@@ -124,6 +124,6 @@ class __TwigTemplate_912a86a3fa0ab55192746f1c85a678cd38105b66fde5b040d40023922c8
     <h1>Ajouter une catégorie</h1> 
         {{ form(form) }}
 {% endblock %}
-", "admin/categories/ajout.html.twig", "C:\\Users\\carol\\petitesannonces\\templates\\admin\\categories\\ajout.html.twig");
+", "admin/categories/ajout.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\templates\\admin\\categories\\ajout.html.twig");
     }
 }

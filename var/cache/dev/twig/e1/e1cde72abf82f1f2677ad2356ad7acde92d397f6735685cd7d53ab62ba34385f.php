@@ -803,6 +803,6 @@ class __TwigTemplate_dd564684b57bccb51094179819b3129e0e4d1b55c969b2464b698bf24ed
         </table>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/config.html.twig", "C:\\Users\\carol\\petitesannonces\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\config.html.twig");
+", "@WebProfiler/Collector/config.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\config.html.twig");
     }
 }

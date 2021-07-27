@@ -154,6 +154,6 @@ class __TwigTemplate_3d96948cdd3bde6aead0d1bd13c8ec96642f25b691dc2d11b980d8f2e89
     </ul>
 </div>
 {% endblock %}
-", "admin/index.html.twig", "C:\\Users\\carol\\petitesannonces\\templates\\admin\\index.html.twig");
+", "admin/index.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\templates\\admin\\index.html.twig");
     }
 }

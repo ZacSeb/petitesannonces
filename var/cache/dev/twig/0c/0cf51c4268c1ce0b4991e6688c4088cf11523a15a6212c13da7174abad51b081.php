@@ -370,6 +370,6 @@ class __TwigTemplate_146fdf1b7034f3bcf28b918805cc0a51530d93e12194c98e328b76624a5
         {% endif %}
     </script>
 {% endblock %}
-", "@FOSCKEditor/Form/ckeditor_widget.html.twig", "C:\\Users\\carol\\petitesannonces\\vendor\\friendsofsymfony\\ckeditor-bundle\\src\\Resources\\views\\Form\\ckeditor_widget.html.twig");
+", "@FOSCKEditor/Form/ckeditor_widget.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\vendor\\friendsofsymfony\\ckeditor-bundle\\src\\Resources\\views\\Form\\ckeditor_widget.html.twig");
     }
 }

@@ -94,6 +94,6 @@ class __TwigTemplate_a4599f03a6e5434d8d0a38573319955b8bf174d7f60d7329eca93e166a8
 <p>
     Cheers!
 </p>
-", "registration/confirmation_email.html.twig", "C:\\Users\\carol\\petitesannonces\\templates\\registration\\confirmation_email.html.twig");
+", "registration/confirmation_email.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\templates\\registration\\confirmation_email.html.twig");
     }
 }

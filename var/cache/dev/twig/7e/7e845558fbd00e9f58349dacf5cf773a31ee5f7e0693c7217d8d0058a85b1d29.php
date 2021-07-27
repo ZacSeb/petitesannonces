@@ -126,6 +126,6 @@ class __TwigTemplate_493873b65c6b7de9518807ee516281eeed52a9980877c512e12ed7198de
 \t<h1>Ajouter une annonce</h1>
 \t{{ form(form) }}
 {% endblock %}
-", "users/annonces/ajout.html.twig", "C:\\Users\\carol\\petitesannonces\\templates\\users\\annonces\\ajout.html.twig");
+", "users/annonces/ajout.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\templates\\users\\annonces\\ajout.html.twig");
     }
 }

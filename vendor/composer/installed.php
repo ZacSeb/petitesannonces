@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '692da49c0c4871bebeacd337ce9d95276c968bb7',
+        'reference' => '383a92aee750a5bc7700ecfe4ca18acbd452db78',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '692da49c0c4871bebeacd337ce9d95276c968bb7',
+            'reference' => '383a92aee750a5bc7700ecfe4ca18acbd452db78',
             'dev_requirement' => false,
         ),
         'antishov/doctrine-extensions-bundle' => array(
@@ -82,6 +82,15 @@
             'reference' => 'a036d90c303f3163b5be8b8fde9b6755b2be4a3a',
             'dev_requirement' => false,
         ),
+        'doctrine/data-fixtures' => array(
+            'pretty_version' => '1.5.0',
+            'version' => '1.5.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../doctrine/data-fixtures',
+            'aliases' => array(),
+            'reference' => '51d3d4880d28951fff42a635a2389f8c63baddc5',
+            'dev_requirement' => true,
+        ),
         'doctrine/dbal' => array(
             'pretty_version' => '2.13.2',
             'version' => '2.13.2.0',
@@ -108,6 +117,15 @@
             'aliases' => array(),
             'reference' => '4202ce675d29e70a8b9ee763bec021b6f44caccb',
             'dev_requirement' => false,
+        ),
+        'doctrine/doctrine-fixtures-bundle' => array(
+            'pretty_version' => '3.4.0',
+            'version' => '3.4.0.0',
+            'type' => 'symfony-bundle',
+            'install_path' => __DIR__ . '/../doctrine/doctrine-fixtures-bundle',
+            'aliases' => array(),
+            'reference' => '870189619a7770f468ffb0b80925302e065a3b34',
+            'dev_requirement' => true,
         ),
         'doctrine/doctrine-migrations-bundle' => array(
             'pretty_version' => '3.1.1',
@@ -215,6 +233,15 @@
             'install_path' => __DIR__ . '/../friendsofsymfony/ckeditor-bundle',
             'aliases' => array(),
             'reference' => '282c79b0d3eda68855ea4c8732ab8d249cd5fbd0',
+            'dev_requirement' => false,
+        ),
+        'fzaninotto/faker' => array(
+            'pretty_version' => 'v1.9.2',
+            'version' => '1.9.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../fzaninotto/faker',
+            'aliases' => array(),
+            'reference' => '848d8125239d7dbf8ab25cb7f054f1a630e68c2e',
             'dev_requirement' => false,
         ),
         'gedmo/doctrine-extensions' => array(

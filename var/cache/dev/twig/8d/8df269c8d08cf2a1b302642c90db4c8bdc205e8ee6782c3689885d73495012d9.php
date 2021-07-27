@@ -172,6 +172,6 @@ class __TwigTemplate_e1161edec5733ed73bc26b0e02e3229f1489a5e1295d7da6d4e056cde1c
         <button type=\"submit\" class=\"btn\">Register</button>
     {{ form_end(registrationForm) }}
 {% endblock %}
-", "registration/register.html.twig", "C:\\Users\\carol\\petitesannonces\\templates\\registration\\register.html.twig");
+", "registration/register.html.twig", "C:\\Users\\Stagiaire\\petitesannonces\\templates\\registration\\register.html.twig");
     }
 }
